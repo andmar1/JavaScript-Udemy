@@ -1,0 +1,28 @@
+{
+    "clientes": [
+        {
+            "id":1,
+            "nombre":"Antonio",
+            "puesto": "Operador",
+            "pais": "Mexico"
+        },
+        {
+            "id":2,
+            "nombre":"Felipe",
+            "puesto": "Veterinario",
+            "pais": "Colombia"
+        },
+        {
+            "id":3,
+            "nombre":"Perla",
+            "puesto": "Doctor",
+            "pais": "Portugal"
+        },
+        {
+            "id":4,
+            "nombre":"Blanca",
+            "puesto": "Servidor publico",
+            "pais": "España"
+        }
+    ]
+}
